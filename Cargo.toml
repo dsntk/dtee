@@ -1,0 +1,11 @@
+[package]
+name = "dtee"
+version = "0.0.0"
+edition = "2021"
+authors = ["Dariusz Depta <dariusz.depta@dsntk.io>"]
+description = "DSNTK | Decision table editor engine"
+documentation = "https://docs.rs/dtee"
+repository = "https://github.com/dsntk/dtee.git"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
